@@ -2,8 +2,6 @@
 
 # Simple BASH  script to rename and reIP the CentOS guest
 # tested on CentOS 8 / other versions or distributions may not apply
-# for Regis University
-# Matt Stierman 2019-11-12
 #
 # THIS INTELLECTUAL PROPERTY IS FOR VIEWING ONLY BY AUTHORIZED PARTIES
 # CREATOR RETAINS ALL RIGHTS FOR THIS INTELLECTUAL PROPERTY
